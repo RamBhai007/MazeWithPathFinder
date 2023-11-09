@@ -1,0 +1,3 @@
+# MazeWithPathFinder
+
+Navigating through complex mazes and finding optimal paths is a fundamental problem in artificial intelligence and robotics. In this project, we will be on a journey of exploration and problem-solving, diving into two essential aspects of path finding: basic path finding and search with multiple goals. Our objective is to develop and implement algorithms that can efficiently guide a character, represented by the iconic "Pac man," through a maze from a specified starting position to a designated goal state. To tackle this challenge, we will employ various search algorithms and adapt them for different scenarios.
